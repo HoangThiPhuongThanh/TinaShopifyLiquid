@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "section0": {
+      "type": "insidepage",
+      "settings": {}
+    },
+    "section1": {
+      "type": "become",
+      "settings": {}
+    }
+  },
+  "order": [
+    "section0",
+    "section1"
+  ]
+}
